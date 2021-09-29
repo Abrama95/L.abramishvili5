@@ -1,0 +1,29 @@
+/*logo and navigation*/
+header{
+	width: 1440px;
+	height: 50px;
+	margin-top: 20px;
+	position: fixed;
+	
+}
+
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 27px;
+	margin-left: 20px;
+	}
+.span{
+	color: #343638;
+}	
+.navigation{
+	display: inline-block;
+	margin-left: 150px;
+}
+.nav-a{
+	display: inline-block;
+	margin-right: 27px;
+	vertical-align: middle;
+	color: #707070;
+	
+}
