@@ -1,9 +1,10 @@
 /*logo and navigation*/
-header{
+.header-wraper{
 	width: 1440px;
 	height: 50px;
-	margin-top: 20px;
 	position: fixed;
+	top: 0;
+	left: 0;
 	
 }
 
@@ -13,11 +14,10 @@ header{
 	font-size: 27px;
 	margin-left: 20px;
 	}
-.span{
-	color: #343638;
-}	
+	
 .navigation{
 	display: inline-block;
+	margin-top: 20px;
 	margin-left: 150px;
 }
 .nav-a{
@@ -26,4 +26,137 @@ header{
 	vertical-align: middle;
 	color: #707070;
 	
+}
+
+/*section(1)*/
+.first-div{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	position: relative;
+	
+}
+
+.trending{
+	font-size: 24px;
+	color: #202124;
+	margin-top: 100px;
+	margin-left: 140px;
+	
+}
+.image1{
+	margin-top: 40px;
+	margin-left: 140px;
+}
+
+.text1{
+	font-size: 12px;
+	color: #A6ADB4;
+	margin-top: 20px;
+	margin-left: 180px;
+
+}
+.time{
+
+	margin-top: 10px;
+	margin-left: 180px;
+}
+
+.minute-class{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 13px;
+	color: #A6ADB4;
+}
+.dolore{
+	font-size: 16px;
+	font-family: bold;
+	position: absolute;
+	color: #FFFFFF;
+	top: 100px;
+	left: 200px;
+}
+
+/*div2*/
+
+.second-div{
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	top: 20px;
+	left: 150px;
+}
+
+.image2{
+	margin-top: 20px;
+
+}
+
+
+.text2{
+	font-size: 12px;
+	color: #A6ADB4;
+	margin-top: 20px;
+
+
+
+}
+.time2{
+	margin-top: 10px;
+}
+.hour{
+	display: inline-block;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 30px;
+	margin-left: 10px;
+
+
+}
+.morbi{
+	font-size: 16px;
+	position: absolute;
+	top: 50px;
+	left: 70px;
+	color: #FFFFFF;
+
+}
+/*div3*/
+
+.third-div{
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	top: 40px;
+	left: 160px;
+	
+
+}
+
+
+.image3{
+	margin left: 20px;
+}
+
+.text3{
+	font-size: 12px;
+	color: #A6ADB4;
+	margin-top: 30px;
+
+}
+.threehour{
+
+	display: inline-block;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 20px;
+
+}
+.morbitwo{
+	font-size: 16px;
+	position: absolute;
+	top: 50px;
+	left: 70px;
+	color: #FFFFFF;
+
 }
