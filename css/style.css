@@ -162,3 +162,33 @@
 	color: #FFFFFF;
 
 }
+
+/*section2*/
+.left-block{
+	width: 760px;
+	height: 900px;
+	position: relative;
+}
+
+.happening{
+	font-size: 24px;
+	color: #202124;
+	margin-top: 50px;
+	margin-left: 140px;
+}
+.bridge{
+	margin-top:40px ;
+	margin-left: 140px;
+	
+}
+.trees{
+	padding-top: 40px;
+	padding-left: 140px;
+
+}
+.libero{
+	position: absolute;
+	top: 240px;
+	left: 370px;
+	color: #FFFFFF;
+}
