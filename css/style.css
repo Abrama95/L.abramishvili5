@@ -1,4 +1,8 @@
 /*logo and navigation*/
+body{
+	font-family: 'Birthstone', cursive;
+}
+
 .header-wraper{
 	width: 1440px;
 	height: 50px;
@@ -165,6 +169,7 @@
 
 /*section2*/
 .left-block{
+	display: inline-block;
 	width: 760px;
 	height: 900px;
 	position: relative;
@@ -191,4 +196,21 @@
 	top: 240px;
 	left: 370px;
 	color: #FFFFFF;
+}
+
+.right-block{
+	display: inline-block;
+	vertical-align: center;
+	margin-left: 180px;
+
+}
+.elephant{
+	padding-bottom: 70px;
+
+}
+.carrot{
+	padding-bottom: 55px;
+}
+.road{
+	margin-bottom: 100px;
 }
